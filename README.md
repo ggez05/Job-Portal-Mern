@@ -1,6 +1,8 @@
 # Job Portal Application 🌟
 ## Made using MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS)
 
+![1](https://github.com/user-attachments/assets/0ee313cd-b32f-4ffa-8f39-7b13868563b8)
+
 Welcome to the Job Portal Application—a powerful platform built using the MERN stack (MongoDB, ExpressJS, ReactJS, and NodeJS). Whether you're a job seeker eager to shine or an employer seeking top talent, this application provides a seamless experience for connecting candidates with career opportunities.
 
 ## Features That Empower You:
@@ -55,23 +57,14 @@ Welcome to the Job Portal Application—a powerful platform built using the MERN
      ```
 
 # Images 
+![2](https://github.com/user-attachments/assets/a5d2907e-8ca3-4a9a-88e9-557ae76b0e08)
+![3](https://github.com/user-attachments/assets/38faa1d5-646d-453b-9729-97fc822a3a86)
+![4](https://github.com/user-attachments/assets/f63c3f41-5ede-4bdf-b3c4-51593c3f81e1)
+![5](https://github.com/user-attachments/assets/c0157c83-0d2f-47fd-b1a5-836842768498)
+![6](https://github.com/user-attachments/assets/8406c59d-a188-4bc8-ae95-3956fc28906f)
+![7](https://github.com/user-attachments/assets/e77af5f9-808b-468a-b18d-ef217eb0ea7a)
+![8](https://github.com/user-attachments/assets/5ae04a50-f04c-460f-9311-6f01b6d28b3d)
+![9](https://github.com/user-attachments/assets/f95cb3ef-f05f-4e5a-b4e9-7e49d6eabc44)
 
-![image](https://github.com/user-attachments/assets/1219f42d-1f07-464e-8b22-1a60ed6248dc)
-
-![image](https://github.com/user-attachments/assets/dc04946c-081d-473e-926e-1c6996a98101)
-
-![image](https://github.com/user-attachments/assets/7d4db18f-f2a6-49da-97c5-da8e3c7e9b88)
-
-![image](https://github.com/user-attachments/assets/671158ac-b2cf-4ccd-8f83-d95ffcb95e32)
-
-![image](https://github.com/user-attachments/assets/aa4d33ba-60ce-41c3-bdd3-183af86a26a8)
-
-![image](https://github.com/user-attachments/assets/fe7dadd3-56d4-4960-aa83-6d7b489d26c9)
-
-![image](https://github.com/user-attachments/assets/9154d5bd-1ff0-479c-b9ab-36f7974add4e)
-
-![image](https://github.com/user-attachments/assets/bd526aae-a516-4e19-944a-8774f5837291)
-
-![image](https://github.com/user-attachments/assets/aa1e3233-fcf4-4628-996b-780022514958)
 
 
